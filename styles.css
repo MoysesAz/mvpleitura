@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+h1{
+    font-size: 100px;   
+    color: whitesmoke;
+    text-align: justify;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+.painel{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
